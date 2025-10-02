@@ -8,10 +8,10 @@ El presente proyecto se enmarca en la asignatura de Desarrollo de Aplicaciones p
 ## Base de datos
 La base de datos cuenta con 528 observaciones continuas, cada una correspondiente a una noche registrada durante más de un año. Los registros permiten un estudio longitudinal de los patrones de sueño y de su impacto diario.
 Cada registro incluye múltiples variables que forman un conjunto multidimensional rico en información:
-•	Fecha de registro
-•	Duración total del sueño
-•	Duración de cada fase del sueño (sueño Core, sueño profundo, sueño REM, tiempo despierto)
-•	Frecuencia cardiaca mínima, máxima y media durante la noche
+•	Fecha de registro  
+•	Duración total del sueño  
+•	Duración de cada fase del sueño (sueño Core, sueño profundo, sueño REM, tiempo despierto)  
+•	Frecuencia cardiaca mínima, máxima y media durante la noche  
 •	Frecuencia respiratoria
 •	Horas en posición de pie durante el día siguiente
 •	Frecuencia cardiaca promedio mientras se camina
